@@ -1,0 +1,16 @@
+.background {
+    height: 100vh;
+    background-image: url(../../assets/imgs/proxyclick-visitor-management-system-ZRC0Hj_2kY0-unsplash.jpg);
+    background-size: cover;
+    /* opacity: .5; */
+}
+
+.container {
+    padding: 25%;
+    color: #000000;
+    z-index: 5;
+}
+
+a {
+    margin: 10px;
+}
